@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="amount_description">Please Enter the total amount</string>
+    <string name="button_title">Done</string>
+</resources>
